@@ -13,7 +13,7 @@ function App() {
     ocupacao: 'Developer Full Stack',
     resumo: 'A doida dos post-its, caderninhos e canetas (além do meu amado planner!)',
 
-    perfilProfissional: 'Engenheira Agrônoma pela ESALQ-USP, Graduanda em Gestão da TI pela FATEC Campinas e Análise, Desenvolvimento de Sistemas pela Wyden, MBA em Segurança da Informação pelo Descomplica|Pós. ',
+    perfilProfissional: 'Engenheira Agrônoma pela ESALQ-USP, Graduanda em Gestão da TI pela FATEC Campinas e Análise, MBA em Segurança da Informação pelo Descomplica|Pós. ',
     contatos: [
       {
         id: 1,
